@@ -2,9 +2,9 @@ import React from "react";
 
 const Testimonials = () => {
   return (
-    <div className="bg-gray-200">
+    <div className="bg-gray-200 pb-20">
         <h1 className="text-3xl pt-24 pb-8 text-center font-bold text-gray-800">Testimonials</h1>
-      <div className="w-5/6 mx-auto flex flex-col md:flex-row gap-4 mb-8 md:mb-0 flex-between items-center p-8">
+      <div className="w-5/6 mx-auto  flex flex-col md:flex-row gap-4 mb-8 md:mb-0 flex-between items-center p-8">
         <div className="bg-white dark:bg-gray-800 w-72 shadow-lg mx-auto rounded-xl p-4">
           <div className="flex items-center my-4">
             <a href="#" className="block relative">
