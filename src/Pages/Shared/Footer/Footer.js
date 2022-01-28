@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <div>
       <footer className="bg-indigo-900 text-gray-600 body-font">
-        <div className="w-3/4 mx-auto px-5 py-24 flex md:items-center lg:items-start md:flex-row md:flex-nowrap flex-wrap flex-col">
+        <div className="px-5 py-24 flex md:items-center lg:items-start md:flex-row md:flex-nowrap flex-wrap flex-col">
           <div className="flex-grow flex flex-wrap mx-auto -mb-10 md:text-left text-center order-first">
             <div className="lg:w-1/4 md:w-1/2 w-full px-4">
               <h2 className="title-font font-medium text-gray-100 tracking-widest text-sm mb-3">
@@ -82,7 +82,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="bg-gray-100">
-          <div className="w-3/4 mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
+          <div className="py-4 px-5 flex flex-wrap flex-col sm:flex-row">
             <p className="text-gray-500 text-sm text-center sm:text-left">
               © 2022 Luxury Living —
               <a
